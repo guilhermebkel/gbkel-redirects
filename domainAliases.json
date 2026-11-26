@@ -221,6 +221,12 @@
 			"to": "https://explain.dalibo.com",
 			"statusCode": 301,
 			"adapters": ["caprover"]
+		},
+		{
+			"from": "github.guilherr.me",
+			"to": "https://github.com/guilhermebkel",
+			"statusCode": 301,
+			"adapters": ["caprover"]
 		}
 	]
 }
